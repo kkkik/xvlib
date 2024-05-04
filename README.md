@@ -26,9 +26,11 @@ Ai.sprint("Print hi",0.02)
 ```
 ## Instal It On Terminal
 ```shell
-pip install xvlib==0.2```
+pip install xvlib==0.2
+```
 
 ## Install On Python3
 ```python
 import os
-os.system("pip install xvlib==0.2")```
+os.system("pip install xvlib==0.2")
+```
