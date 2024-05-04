@@ -1,7 +1,7 @@
 # xvlib
 My first Project on Pypi
 [![PyPI version](https://badge.fury.io/py/xvlib.svg)](https://badge.fury.io/py/xvlib)
-![Logo](https://github.com/kkkik/xvlib/xvlib-logo.jpg)
+![Logo](https://ibb.co/807185y)
 This Module Make you talk with Ai To make Codes , and create A dream Pictures using the Function
 ```python
 from xvlib import Ai
