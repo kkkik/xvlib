@@ -1,0 +1,2 @@
+def emptyL():
+    0
