@@ -1,7 +1,6 @@
 # xvlib
-My first Project on Pypi
-
-
+OutOfWork
+## This module now works only Ai Dreaming Now
 
 [![PyPI version](https://badge.fury.io/py/xvlib.svg)](https://badge.fury.io/py/xvlib)
 
@@ -17,7 +16,7 @@ print(x)
 from xvlib import Ai
 x = Ai.GPT("Hacker")
 print(x)
-#----- This will print link that ypu open it -#```
+#----- This will print link that you open it -#```
 -------------
 and #Slow writing with sleep
 ```python
